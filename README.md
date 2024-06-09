@@ -8,9 +8,9 @@ The switching mechanism is optimized and compact. It uses a laser cut stainless 
 I believe to have reached the peak of this mountain. It's the most compact it will ever be using mostly 3d printed parts. " - RobertGcode
 
 The only 2 custom parts are laser cut 2mm stainless steel. 
-This print head was designed to fit the custom coreXY motion system of the Cyberprintr.
+This print head was designed to fit the specific coreXY motion system of the Cyberprintr.
 
-# **Building tips:**
+# **Design Notes:**
 
 Make sure to print the important parts from a stiff filament that doesn't creep, because the lift mechanism is under constant pressure.
 I have 3d printed all parts from ezPC-CF from 3DXtech. 
@@ -22,13 +22,12 @@ When you 3d print the lift slider, consider it as a consumable part. Must be rep
 Unless you get it CNC-machined from metal.
 ![slider](https://github.com/ThatGuyHes/Dual-Extruder-X4/assets/45016982/2e48df2e-9ab2-4b0a-b41e-104583076ae3)
 
-**Optional Peripherals**
+**Experimental Design**
 
-I leave it up to you to decide if your build requires any peripherals. Such as:
-- Purge stations to purge some filament and wipe the nozzle.             *(Not required: no design available)*
-- Cooling stations to cool the inactive hotend down to idle temperature. *(Not required: no design available)*
-- Filament run-out sensors.                                              *(Easy to implement by yourself: no design available)*
-- Probe or camera for automatic offset calibration.                      *(Maybe in the future)*
+Advanced knowledge about every aspect of building 3d printers is required. 
+I won't be providing any more in-depth documentation.
+Firmware, config, macro and slicer settings will differ greatly from printer to printer.
+
 
 **Screenshots**
 
