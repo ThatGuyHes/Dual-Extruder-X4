@@ -28,6 +28,7 @@ Advanced knowledge about every aspect of building 3d printers is required.
 I won't be providing any more in-depth documentation.
 
 **Firmware**
+
 This project uses RepRapFirmware, the system directory is now available. It's a bit messy, but it works for me.
 
 **Screenshots**
