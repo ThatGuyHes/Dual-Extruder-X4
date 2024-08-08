@@ -26,8 +26,9 @@ Unless you get it CNC-machined from metal.
 
 Advanced knowledge about every aspect of building 3d printers is required. 
 I won't be providing any more in-depth documentation.
-Firmware, config, macro and slicer settings will differ greatly from printer to printer.
 
+**Firmware**
+This project uses RepRapFirmware, the system directory is now available. It's a bit messy, but it works for me.
 
 **Screenshots**
 
